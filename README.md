@@ -15,64 +15,7 @@
 | 6             | [Penetration Testing]() | Simulated attacks to assess security defenses. |
 | 2             | [Reverse Engineering]( ) |  |
 
-### Networking
-
-// give proper naming
-| S.No          | Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [Deep Dive into Computer Networking : Long Video](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [Understanding Computer Networking : Short Video](https://www.youtube.com/watch?v=6G14NrjekLQ)         | Beginner-friendly networking and security concepts. | 
-| 3             | [TCP - Three Way Handshake](https://www.youtube.com/watch?v=rmFX1V49K8U&t=1471s)|
-| 4             | [Processor Messer: CompTIA Network+ Training Course](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) |  CompTIA Network+ certification and practical insights. | 
-| 5             | [DNS](https://www.youtube.com/watch?v=NiQTs9DbtW4) | Easy-to-understand breakdown of DNS fundamentals. |
-| 6             | [Protocol 1](https://www.youtube.com/watch?v=d-zn-wv4Di8) | 
-| 7             | [Protocol 2](https://www.youtube.com/watch?v=P6SZLcGE4us) | 
- 
-### Web Fundamentals and Penetration Testing
-
-| S.No          | Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [Quick Video on Web Penetration Testing](https://www.youtube.com/watch?v=e1DZYIddDrY) |
-| 2             | [Web Penetration Playlist](https://www.youtube.com/watch?v=ZBi8Qa9m5c0&list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL&pp=0gcJCV8EOCosWNin) | Practical CTF-style web exploitation explained. | 
-| 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
-| 4             | [SQL Injection](https://www.youtube.com/watch?v=2OPVViV-GQk) | 
-
-### Linux
-
-| S.No          | Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
-| 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
-| 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
-
-
-### Powershell
-
-| S.No          | Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
-| 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
-| 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
-
-### Ethical Hacking
-
-| S.No          | Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
-| 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
-| 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
-
-### Penetration Testing
-
-| S.No          | Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s) |
-| 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
-| 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
-| 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
+  
 
 # Resources
 
