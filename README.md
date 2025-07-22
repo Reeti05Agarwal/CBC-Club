@@ -6,14 +6,14 @@
 | ------------- | ------------- | ------------- |
 | 1             | [Networking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Computer-Networks.md) | Foundation for understanding how data moves between systems. |
 | 2             | [Web Fundamentals](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Web-Fundaments.md) | Core of most attack surfaces; includes HTTP, HTML, JS, APIs, and databases. |
-| 2             | [Basic Programming Languages]( ) |  |
+| 2             | [Basic Programming Languages](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Basic-Programming-Language.md) |  |
 | 3             | [Linux](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Linux.md)| Command-line OS powering most servers, often targeted or used by attackers. | 
 | 4             | [Powershell](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Powershell.md) | Windows scripting for system automation and exploitation. |
-| 2             | [Cryptography]( ) |  |
-| 2             | [Digital Forecsics]( ) |  |
+| 2             | [Cryptography](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Cryptography.md) |  |
+| 2             | [Digital Forecsics](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Digital-Forensics.md) |  |
 | 5             | [Ethical hacking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Ethical-Hacking.md) | 	Legal hacking to find security weaknesses. | 
 | 6             | [Penetration Testing](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Penetration-Testing.md) | Simulated attacks to assess security defenses. |
-| 2             | [Reverse Engineering]( ) |  |
+| 2             | [Reverse Engineering](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Reverse-Engineering.md) |  |
 
   
 
