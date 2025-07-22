@@ -5,30 +5,37 @@
 | S.No          | Fields   | Description   |
 | ------------- | ------------- | ------------- |
 | 1             | [Networking]() | Foundation for understanding how data moves between systems. |
-| 2             | [Web Fundamentals](https://pentesterlab.com/exercises) | Core of most attack surfaces; includes HTTP, HTML, JS, APIs, and databases. |
-| 3             | [Linux](https://application.security/)| Command-line OS powering most servers, often targeted or used by attackers. | 
-| 4             | [Powershell](https://tryhackme.com/) | Windows scripting for system automation and exploitation. |
-| 5             | [Ethical hacking](https://hacksheets.in/) | 	Legal hacking to find security weaknesses. | 
-| 6             | [Penetration Testing](https://hacksheets.in/) | Simulated attacks to assess security defenses. |
+| 2             | [Web Fundamentals]( ) | Core of most attack surfaces; includes HTTP, HTML, JS, APIs, and databases. |
+| 2             | [Basic Programming Languages]( ) |  |
+| 3             | [Linux]( )| Command-line OS powering most servers, often targeted or used by attackers. | 
+| 4             | [Powershell]( ) | Windows scripting for system automation and exploitation. |
+| 2             | [Cryptography]( ) |  |
+| 2             | [Digital Forecsics]( ) |  |
+| 5             | [Ethical hacking]( ) | 	Legal hacking to find security weaknesses. | 
+| 6             | [Penetration Testing]() | Simulated attacks to assess security defenses. |
+| 2             | [Reverse Engineering]( ) |  |
 
 ### Networking
 
+// give proper naming
 | S.No          | Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ)         | Beginner-friendly networking and security concepts. | 
-| 3             | [David Bombal](https://www.youtube.com/watch?v=rmFX1V49K8U&t=1471s)|
-| 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) |  CompTIA Network+ certification and practical insights. | 
-| 5             | [DNS : Network Chuck](https://www.youtube.com/watch?v=NiQTs9DbtW4) | Easy-to-understand breakdown of DNS fundamentals. |
+| 1             | [Deep Dive into Computer Networking : Long Video](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
+| 2             | [Understanding Computer Networking : Short Video](https://www.youtube.com/watch?v=6G14NrjekLQ)         | Beginner-friendly networking and security concepts. | 
+| 3             | [TCP - Three Way Handshake](https://www.youtube.com/watch?v=rmFX1V49K8U&t=1471s)|
+| 4             | [Processor Messer: CompTIA Network+ Training Course](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) |  CompTIA Network+ certification and practical insights. | 
+| 5             | [DNS](https://www.youtube.com/watch?v=NiQTs9DbtW4) | Easy-to-understand breakdown of DNS fundamentals. |
+| 6             | [Protocol 1](https://www.youtube.com/watch?v=d-zn-wv4Di8) | 
+| 7             | [Protocol 2](https://www.youtube.com/watch?v=P6SZLcGE4us) | 
  
-### Web Fundamentals
+### Web Fundamentals and Penetration Testing
 
 | S.No          | Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
+| 1             | [Quick Video on Web Penetration Testing](https://www.youtube.com/watch?v=e1DZYIddDrY) |
+| 2             | [Web Penetration Playlist](https://www.youtube.com/watch?v=ZBi8Qa9m5c0&list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL&pp=0gcJCV8EOCosWNin) | Practical CTF-style web exploitation explained. | 
 | 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
-| 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
+| 4             | [SQL Injection](https://www.youtube.com/watch?v=2OPVViV-GQk) | 
 
 ### Linux
 
@@ -62,12 +69,12 @@
 
 | S.No          | Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
+| 1             | [FreeCodeCamp](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s) |
 | 2             | [LiveOverflow](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
 | 3             | [API Security](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
 | 4             | [Processor Messer](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
 
-
+# Resources
 
 ## Website To Learn From
 
@@ -86,10 +93,40 @@
 
 | S.No          | Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [OWASP](https://www.youtube.com/watch?v=qiQR5rTSshw&t=18060s)         |
-| 2             | [MITRE AtTACK Framework](https://www.youtube.com/watch?v=6G14NrjekLQ) | Practical CTF-style web exploitation explained. | 
-| 3             | [CVE and CWE](https://www.youtube.com/watch?v=R-4_DbV1Su4)| Deep dive into common API vulnerabilities. |
+| 1             | [OWASP Top 10](https://owasp.org/www-project-top-ten/) | |
+| 2             | [MITRE AtTACK Framework](https://attack.mitre.org/) |  | 
+| 3             | [CVE](https://www.cve.org/)|  |
 | 4             | [ExploitDB](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
+| 5             | [NIST](https://www.nist.gov/cybersecurity)| 
+| 6             | [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)|  
+
+## Notes
+
+| S.No          | Name   | Description   |
+| ------------- | ------------- | ------------- |
+| 1             | [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries) | |
+| 2             | [MITRE AtTACK Framework](https://attack.mitre.org/) |  | 
+| 3             | [CVE](https://www.cve.org/)|  |
+| 4             | [ExploitDB](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
+| 3             | [NIST](https://www.nist.gov/cybersecurity)| 
+| 3             | [CVE and CWE](https://www.youtube.com/watch?v=R-4_DbV1Su4)| 
+| 3             | [CVE and CWE](https://www.youtube.com/watch?v=R-4_DbV1Su4)| 
+
+
+## Youtube Channels
+
+| S.No          | Channel Name   | Description   |
+| ------------- | ------------- | ------------- |
+| 1             | [Network Cuck](https://www.youtube.com/@NetworkChuck)  |
+| 2             | [David Bombal](https://www.youtube.com/@davidbombal) |   | 
+| 3             | [Low Level](https://www.youtube.com/@LowLevelTV)|   |
+| 4             | [LiveOverflow](https://www.youtube.com/@LiveOverflow) | 
+| 5             | [Mad Hat](https://www.youtube.com/@madhatistaken) | 
+| 6             | [HackerSploit](https://www.youtube.com/HackerSploit) | 
+| 7             | [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | 
+| 8             | [Computerphile](https://www.youtube.com/@Computerphile/videos) | 
+| 9             | [John Hammond](https://www.youtube.com/@_JohnHammond) | 
+| 10            | [PwnFunction](https://www.youtube.com/@PwnFunction/videos) | 
 
 ## Courses and Certifications
 
