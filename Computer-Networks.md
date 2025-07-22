@@ -9,3 +9,6 @@
 | 5             | [DNS](https://www.youtube.com/watch?v=NiQTs9DbtW4) | Easy-to-understand breakdown of DNS fundamentals. |
 | 6             | [Protocol 1](https://www.youtube.com/watch?v=d-zn-wv4Di8) | 
 | 7             | [Protocol 2](https://www.youtube.com/watch?v=P6SZLcGE4us) | 
+| 8             | [ ]( ) | 
+| 9             | [](https://www.youtube.com/watch?v=P6SZLcGE4us) | 
+| 7             | [Protocol 2](https://www.youtube.com/watch?v=P6SZLcGE4us) | 
