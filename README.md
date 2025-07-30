@@ -2,20 +2,27 @@
 
 ## Fields
 
+## Phase 1: Foundational Skills 
+
 | S.No          | Fields   | Description   |
 | ------------- | ------------- | ------------- |
 | 1             | [Networking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Computer-Networks.md) | Foundation for understanding how data moves between systems. |
 | 2             | [Web Fundamentals](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Web-Fundaments.md) | Core of most attack surfaces; includes HTTP, HTML, JS, APIs, and databases. |
 | 3             | [Basic Programming Languages](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Basic-Programming-Language.md) |  |
 | 4             | [Linux](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Linux.md)| Command-line OS powering most servers, often targeted or used by attackers. | 
-| 5             | [Powershell](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Powershell.md) | Windows scripting for system automation and exploitation. |
-| 6             | [Cryptography](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Cryptography.md) |  |
-| 7             | [Digital Forecsics](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Digital-Forensics.md) |  |
-| 8             | [Ethical hacking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Ethical-Hacking.md) | 	Legal hacking to find security weaknesses. | 
-| 9             | [Penetration Testing](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Penetration-Testing.md) | Simulated attacks to assess security defenses. |
-| 10            | [Reverse Engineering](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Reverse-Engineering.md) |  |
+| 5             | [Cryptography](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Cryptography.md) |  |
 
-## Virtual Machine
+## Phase 2: Intermediate Skills
+
+| S.No          | Fields   | Description   |
+| ------------- | ------------- | ------------- |
+| 1             | [Ethical hacking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Ethical-Hacking.md) | 	Legal hacking to find security weaknesses. | 
+| 2             | [Penetration Testing](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Penetration-Testing.md) | Simulated attacks to assess security defenses. |
+| 3             | [Digital Forecsics](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Digital-Forensics.md) |  |
+| 4             | [Powershell](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Powershell.md) | Windows scripting for system automation and exploitation. |
+| 5            | [Reverse Engineering](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Reverse-Engineering.md) |  |
+
+## Virtual Machine (Set These Up Early)
 
 | S.No          | Fields   | Description   |
 | ------------- | ------------- | ------------- |
@@ -23,59 +30,50 @@
 | 2             | [Virtual Box - David Bombal](https://www.youtube.com/watch?v=MPkni85O9JA) |  |
 | 3             | [Proxmox](https://www.youtube.com/watch?v=_u8qTN3cCnQ) |  |
 
-# Resources
-
-## Website To Learn From
+# Learning Platform
 
 | S.No          | Course Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Try Hack Me](https://tryhackme.com/paths)         |  |
-| 2             | [Hack The Box](https://app.hackthebox.com/home)         |  |
-| 3             | [Portswigger](https://portswigger.net/web-security/learning-path)|  |
-| 4             | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) |  |
-| 5             | [Over The Wire](https://overthewire.org/wargames/) |   |
-| 6             | [Portswigger](https://portswigger.net/web-security/learning-path)|  |
-| 7             | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) |  |
-| 8             | [Over The Wire](https://overthewire.org/wargames/) |  |
+| 1             | [Try Hack Me](https://tryhackme.com/paths)         | Gamified labs for beginners to advanced. Start with Pre Security, Cyber Security 101 & Junior Penetration Tester paths |
+| 2             | [Hack The Box](https://app.hackthebox.com/home)         | Realistic labs; more advanced than THM. Start with "Starting Point". |
+| 3             | [Portswigger Web Security](https://portswigger.net/web-security/learning-path)|  | Best free place to learn web vulnerabilities (XSS, SQLi, etc). |
+| 4             | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) | Vulnerable web app for practicing web attacks. |
+| 5             | [Over The Wire](https://overthewire.org/wargames/) |  CLI-based challenges; great to improve Linux & basic hacking skills. |
+ 
 
-## Frameworks
+## Cyber Security Frameworks (Understand These Concepts)
 
 | S.No          | Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [OWASP Top 10](https://owasp.org/www-project-top-ten/) | |
-| 2             | [MITRE AtTACK Framework](https://attack.mitre.org/) |  | 
-| 3             | [CVE](https://www.cve.org/)|  |
-| 4             | [ExploitDB](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
-| 5             | [NIST](https://www.nist.gov/cybersecurity)| 
-| 6             | [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)|  
+| 1             | [OWASP Top 10](https://owasp.org/www-project-top-ten/)   | Most common web vulnerabilities. |
+| 2             | [MITRE AtTACK Framework](https://attack.mitre.org/)  |  Real-world tactics & techniques used by attackers. |
+| 3             | [CVE](https://www.cve.org/)  |  Public list of security flaws. |
+| 4             | [ExploitDB](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | Database of public exploits and POCs. |
+| 5             | [NIST](https://www.nist.gov/cybersecurity)  | US-based standard for cybersecurity best practices. |
+| 6             | [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  | Phases of an attack, helps defenders understand attack flow. |  
 
-## Notes
+## Notes & Cheat Sheets (For Quick Revision)
 
 | S.No          | Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries) | |
-| 2             | [MITRE AtTACK Framework](https://attack.mitre.org/) |  | 
-| 3             | [CVE](https://www.cve.org/)|  |
-| 4             | [ExploitDB](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&pp=0gcJCV8EOCosWNin) | 
-| 5             | [NIST](https://www.nist.gov/cybersecurity)| 
-| 6             | [CVE and CWE](https://www.youtube.com/watch?v=R-4_DbV1Su4)| 
-| 7             | [CVE and CWE](https://www.youtube.com/watch?v=R-4_DbV1Su4)| 
-
+| 1             | [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries) | Simple explanations of web security practices |
+| 5             | [Hack Sheets](https://hacksheets.in/) |
+ 
 
 ## Youtube Channels
 
 | S.No          | Channel Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Network Cuck](https://www.youtube.com/@NetworkChuck)  |
-| 2             | [David Bombal](https://www.youtube.com/@davidbombal) |   | 
-| 3             | [Low Level](https://www.youtube.com/@LowLevelTV)|   |
-| 4             | [LiveOverflow](https://www.youtube.com/@LiveOverflow) | 
-| 5             | [Mad Hat](https://www.youtube.com/@madhatistaken) | 
-| 6             | [HackerSploit](https://www.youtube.com/HackerSploit) | 
-| 7             | [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | 
-| 8             | [Computerphile](https://www.youtube.com/@Computerphile/videos) | 
-| 9             | [John Hammond](https://www.youtube.com/@_JohnHammond) | 
-| 10            | [PwnFunction](https://www.youtube.com/@PwnFunction/videos) | 
+| 1             | [Network Cuck](https://www.youtube.com/@NetworkChuck)  | Fun, beginner-friendly on networking, Linux, hacking. |
+| 2             | [David Bombal](https://www.youtube.com/@davidbombal) |  Networking, ethical hacking | 
+| 9             | [John Hammond](https://www.youtube.com/@_JohnHammond) | CTFs, malware analysis, scripting. |
+| 7             | [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | Penetration testing, Courses on various certification, Networking, OSCP prep. |
+| 3             | [Low Level](https://www.youtube.com/@LowLevelTV) |  |
+| 4             | [LiveOverflow](https://www.youtube.com/@LiveOverflow) | CTF walkthroughs, reverse engineering, deep dive topics. |
+| 5             | [Mad Hat](https://www.youtube.com/@madhatistaken) |  |
+| 6             | [HackerSploit](https://www.youtube.com/HackerSploit) | Ethical hacking & pentesting tutorials. |
+| 8             | [Computerphile](https://www.youtube.com/@Computerphile/videos) | |
+| 10            | [PwnFunction](https://www.youtube.com/@PwnFunction/videos) | Great visual breakdowns of web hacking concepts. |
 
 ## Courses and Certifications
 
@@ -83,19 +81,8 @@
  
 | S.No          | Course Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)         |
-| 2             | [PentesterLab](https://pentesterlab.com/exercises)         |
-| 3             | [Application security](https://application.security/)|
-| 4             | [Try Hack me](https://tryhackme.com/) |
-| 5             | [Hack Sheets](https://hacksheets.in/) |
+| 1             | [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)  | Beginner-friendly. Good place to start.  |
+| 2             | [PentesterLab](https://pentesterlab.com/exercises)  | Great for web app security. |
+| 3             | [Application security](https://application.security/)| Free, structured, web-focused. |
 
-
-### Certifications
-
-| S.No          | Course Name   | Description   |
-| ------------- | ------------- | ------------- |
-| 1             | [eJPT](https://ine.com/security/certifications/ejpt-certification)         |  | 
-| 2             | [CompaTIA+ Security](https://www.comptia.org/en/certifications/security/)         |  |
-| 3             | [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)|  |
-| 4             | [OSCP](https://www.offsec.com/products/oscp-plus/) |  |
-| 5             | [eWPT](https://ine.com/security/certifications/ewpt-certification) |  |
+ 
