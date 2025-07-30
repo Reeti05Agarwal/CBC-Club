@@ -13,9 +13,15 @@
 | 7             | [Digital Forecsics](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Digital-Forensics.md) |  |
 | 8             | [Ethical hacking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Ethical-Hacking.md) | 	Legal hacking to find security weaknesses. | 
 | 9             | [Penetration Testing](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Penetration-Testing.md) | Simulated attacks to assess security defenses. |
-| 10             | [Reverse Engineering](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Reverse-Engineering.md) |  |
+| 10            | [Reverse Engineering](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Reverse-Engineering.md) |  |
 
-  
+## Virtual Machine
+
+| S.No          | Fields   | Description   |
+| ------------- | ------------- | ------------- |
+| 1             | [Virtual Box - Network Chuck](https://www.youtube.com/watch?v=wX75Z-4MEoM) |   |
+| 2             | [Virtual Box - David Bombal](https://www.youtube.com/watch?v=MPkni85O9JA) |  |
+| 3             | [Proxmox](https://www.youtube.com/watch?v=_u8qTN3cCnQ) |  |
 
 # Resources
 
