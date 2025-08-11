@@ -6,21 +6,21 @@
 
 | S.No          | Fields   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Networking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Computer-Networks.md) | Foundation for understanding how data moves between systems. |
-| 2             | [Web Fundamentals](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Web-Fundaments.md) | Core of most attack surfaces; includes HTTP, HTML, JS, APIs, and databases. |
-| 3             | [Basic Programming Languages](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Basic-Programming-Language.md) |  |
+| 1             | [Networking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Computer-Networks.md) | Foundation for understanding how data moves between systems, including network layers, protocols, IP addressing, and routing. |
+| 2             | [Web Fundamentals](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Web-Fundaments.md) | Core of most attack surfaces; covers HTTP/HTTPS, HTML, JavaScript, APIs, databases, and the client-server model. |
+| 3             | [Basic Programming Languages](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Basic-Programming-Language.md) | Learning programming basics in languages like Python, C, or JavaScript to write scripts, automate tasks, and exploit vulnerabilities. |
 | 4             | [Linux](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Linux.md)| Command-line OS powering most servers, often targeted or used by attackers. | 
-| 5             | [Cryptography](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Cryptography.md) |  |
+| 5             | [Cryptography](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Cryptography.md) | The science of securing communication through encryption, hashing, digital signatures, and key management. |
 
 ## Phase 2: Intermediate Skills
 
 | S.No          | Fields   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Ethical hacking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Ethical-Hacking.md) | 	Legal hacking to find security weaknesses. | 
-| 2             | [Penetration Testing](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Penetration-Testing.md) | Simulated attacks to assess security defenses. |
-| 3             | [Digital Forecsics](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Digital-Forensics.md) |  |
-| 4             | [Powershell](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Powershell.md) | Windows scripting for system automation and exploitation. |
-| 5            | [Reverse Engineering](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Reverse-Engineering.md) |  |
+| 1             | [Ethical hacking](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Ethical-Hacking.md) | Legal hacking to find and report security weaknesses using reconnaissance, exploitation, and reporting techniques. | 
+| 2             | [Penetration Testing](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Penetration-Testing.md) | Simulated attacks to assess and strengthen security defenses across networks, web apps, and systems. |
+| 3             | [Digital Forecsics](https://github.com/Reeti05Agarwal/CBC-Club/blob/main/Digital-Forensics.md) | Investigating cyber incidents by collecting, preserving, and analyzing digital evidence from devices, memory, and networks |
+| 4             | Powershell | Windows scripting for system automation and exploitation. | Windows scripting language for automating administrative tasks, performing reconnaissance, and executing post-exploitation actions. |
+| 5             | Reverse Engineering | Analyzing compiled software or malware to understand its functionality, discover vulnerabilities, and develop countermeasures. |
 
 ## Virtual Machine (Set These Up Early)
 
