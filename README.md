@@ -26,9 +26,9 @@
 
 | S.No          | Fields   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Virtual Box - Network Chuck](https://www.youtube.com/watch?v=wX75Z-4MEoM) |   |
-| 2             | [Virtual Box - David Bombal](https://www.youtube.com/watch?v=MPkni85O9JA) |  |
-| 3             | [Proxmox](https://www.youtube.com/watch?v=_u8qTN3cCnQ) |  |
+| 1             | [Virtual Box - Network Chuck](https://www.youtube.com/watch?v=wX75Z-4MEoM) |  Beginner-friendly guide to installing, configuring, and using VirtualBox for running multiple virtual machines for cybersecurity and IT labs. |
+| 2             | [Virtual Box - David Bombal](https://www.youtube.com/watch?v=MPkni85O9JA) | Step-by-step tutorial on setting up VirtualBox, creating virtual machines, configuring networking, and integrating with penetration testing tools. |
+| 3             | [Proxmox](https://www.youtube.com/watch?v=_u8qTN3cCnQ) | Introduction to Proxmox VE, an open-source virtualization platform, covering installation, virtual machine management, and advanced networking. |
 
 # Learning Platform
 
@@ -64,16 +64,16 @@
 
 | S.No          | Channel Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Network Cuck](https://www.youtube.com/@NetworkChuck)  | Fun, beginner-friendly on networking, Linux, hacking. |
-| 2             | [David Bombal](https://www.youtube.com/@davidbombal) |  Networking, ethical hacking | 
-| 9             | [John Hammond](https://www.youtube.com/@_JohnHammond) | CTFs, malware analysis, scripting. |
-| 7             | [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | Penetration testing, Courses on various certification, Networking, OSCP prep. |
-| 3             | [Low Level](https://www.youtube.com/@LowLevelTV) |  |
-| 4             | [LiveOverflow](https://www.youtube.com/@LiveOverflow) | CTF walkthroughs, reverse engineering, deep dive topics. |
-| 5             | [Mad Hat](https://www.youtube.com/@madhatistaken) |  |
-| 6             | [HackerSploit](https://www.youtube.com/HackerSploit) | Ethical hacking & pentesting tutorials. |
-| 8             | [Computerphile](https://www.youtube.com/@Computerphile/videos) | |
-| 10            | [PwnFunction](https://www.youtube.com/@PwnFunction/videos) | Great visual breakdowns of web hacking concepts. |
+| 1             | [Network Cuck](https://www.youtube.com/@NetworkChuck)  | 	Fun, beginner-friendly tutorials on networking, Linux, cybersecurity, coffee-themed hacking, and IT certifications. |
+| 2             | [David Bombal](https://www.youtube.com/@davidbombal) | 	Fun, beginner-friendly tutorials on networking, Linux, cybersecurity, coffee-themed hacking, and IT certifications. | 
+| 9             | [John Hammond](https://www.youtube.com/@_JohnHammond) | Explores low-level computing concepts, reverse engineering, binary exploitation, and security research in detail. |
+| 7             | [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) | CTF walkthroughs, reverse engineering tutorials, bug bounty deep-dives, and hacker mindset discussions. |
+| 3             | [Low Level](https://www.youtube.com/@LowLevelTV) | Bug bounty hunting tips, web security tutorials, exploitation techniques, and vulnerability analysis. |
+| 4             | [LiveOverflow](https://www.youtube.com/@LiveOverflow) | Ethical hacking, penetration testing tutorials, cybersecurity tools training, and OSCP preparation. |
+| 5             | [Mad Hat](https://www.youtube.com/@madhatistaken) | Penetration testing, networking, certification prep (OSCP, CEH), and practical cybersecurity courses. |
+| 6             | [HackerSploit](https://www.youtube.com/HackerSploit) | Short, engaging videos on computer science concepts, cryptography, cybersecurity, and hacking explained for all audiences. |
+| 8             | [Computerphile](https://www.youtube.com/@Computerphile/videos) | CTF challenges, malware analysis, scripting, exploit development, and deep security investigations. |
+| 10            | [PwnFunction](https://www.youtube.com/@PwnFunction/videos) | Highly visual, easy-to-follow breakdowns of web hacking concepts, vulnerabilities, and exploitation techniques. |
 
 ## Courses and Certifications
 
@@ -81,8 +81,8 @@
  
 | S.No          | Course Name   | Description   |
 | ------------- | ------------- | ------------- |
-| 1             | [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)  | Beginner-friendly. Good place to start.  |
-| 2             | [PentesterLab](https://pentesterlab.com/exercises)  | Great for web app security. |
-| 3             | [Application security](https://application.security/)| Free, structured, web-focused. |
+| 1             | [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)  | A beginner-friendly professional certificate covering cybersecurity fundamentals, threat detection, incident response, networking basics, and hands-on labs for entry-level roles.  |
+| 2             | [PentesterLab](https://pentesterlab.com/exercises)  | Practical, hands-on platform for learning web application security through guided exercises, covering vulnerabilities like SQLi, XSS, CSRF, authentication flaws, and more. |
+| 3             | [Application security](https://application.security/)| A free, structured, web-focused security training program covering secure coding, OWASP Top 10 vulnerabilities, and defensive programming best practices. |
 
  
